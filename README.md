@@ -1,1 +1,1 @@
-Heyyyyyy
+I am PhD student at NYU in the Biostatistics department. I specialize in Causal Inference methodology, with a particular focus on transportability and generalization of clinical trial results with time-to-event outcomes. 
